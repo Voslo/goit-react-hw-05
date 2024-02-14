@@ -1,0 +1,26 @@
+.container {
+    padding-top: 10px;
+    padding-left: 20px;
+
+}
+
+.link {
+    display: flex;
+    gap: 3px;
+    align-items: center;
+
+
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border: 1px solid #3e3017;
+    min-width: 100px;
+
+}
